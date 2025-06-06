@@ -1,0 +1,101 @@
+employer_id,employer_name,sector,size_band,partner_status
+1,Kelley-West,Education,Enterprise (1000+),Platinum
+2,Mitchell LLC,Tech,Small (1-50),Platinum
+3,Davis-Simmons,Retail,Medium (51-250),Gold
+4,"Howard, Barr and Herrera",Media,Large (251-1000),Silver
+5,Johnston Inc,Finance,Small (1-50),New
+6,Wallace-Roberts,Media,Enterprise (1000+),Platinum
+7,Tran and Sons,Healthcare,Large (251-1000),Gold
+8,Sandoval Inc,Finance,Small (1-50),Gold
+9,Peterson-Williams,Media,Small (1-50),Silver
+10,"Soto, Collins and Armstrong",Tech,Small (1-50),Silver
+11,Benson Group,Tech,Small (1-50),Gold
+12,Brandt PLC,Healthcare,Large (251-1000),Silver
+13,Willis-Wright,Education,Small (1-50),Silver
+14,Martin-Lewis,Education,Medium (51-250),Platinum
+15,"Olson, Parrish and Davis",Tech,Enterprise (1000+),Gold
+16,Miller-Wood,Consulting,Medium (51-250),Silver
+17,"Carr, Maxwell and Young",Retail,Small (1-50),Platinum
+18,Bradley-Stewart,Media,Enterprise (1000+),Gold
+19,"White, Hicks and Thompson",Finance,Small (1-50),Platinum
+20,"Harper, Elliott and Massey",Retail,Enterprise (1000+),Gold
+21,Wilson-Coleman,Media,Large (251-1000),Silver
+22,Contreras and Sons,Finance,Large (251-1000),Gold
+23,Mcguire-Blackwell,Consulting,Large (251-1000),Platinum
+24,Thomas-Oliver,Finance,Medium (51-250),Platinum
+25,"Krause, Gentry and Ramirez",Finance,Large (251-1000),Silver
+26,Walters-Doyle,Media,Large (251-1000),Gold
+27,Burke Inc,Consulting,Medium (51-250),Gold
+28,Hernandez-Krueger,Finance,Medium (51-250),Platinum
+29,"Williams, Mccormick and Williams",Tech,Enterprise (1000+),Silver
+30,Middleton PLC,Education,Medium (51-250),Silver
+31,"Santana, Mckay and Hunt",Media,Enterprise (1000+),Silver
+32,Fisher-Crawford,Retail,Large (251-1000),Gold
+33,Watson and Sons,Retail,Medium (51-250),Silver
+34,"Moreno, Bush and Dominguez",Education,Small (1-50),Gold
+35,"Arnold, Johnson and Dodson",Tech,Small (1-50),Silver
+36,"Dunn, Murillo and Beltran",Consulting,Medium (51-250),Platinum
+37,Peck Ltd,Finance,Medium (51-250),Silver
+38,Davis PLC,Retail,Large (251-1000),Gold
+39,Henderson-Anderson,Healthcare,Large (251-1000),Silver
+40,Fuentes PLC,Healthcare,Large (251-1000),Silver
+41,White-Long,Retail,Large (251-1000),Gold
+42,Long-White,Consulting,Small (1-50),New
+43,Bright-Chavez,Retail,Large (251-1000),Gold
+44,Collier LLC,Education,Small (1-50),New
+45,Stark-Smith,Tech,Medium (51-250),Silver
+46,Gonzales-Thomas,Education,Small (1-50),New
+47,Rios PLC,Finance,Medium (51-250),Platinum
+48,"Harrington, Garrett and Strickland",Tech,Medium (51-250),Gold
+49,Hansen-Werner,Tech,Small (1-50),Silver
+50,"Shaw, Hammond and Welch",Retail,Medium (51-250),New
+51,Marks and Sons,Consulting,Enterprise (1000+),Platinum
+52,"Kelley, Perez and Smith",Retail,Small (1-50),Platinum
+53,Edwards LLC,Finance,Large (251-1000),Gold
+54,"Chapman, Potts and Campbell",Tech,Medium (51-250),Silver
+55,Cooper-Garcia,Healthcare,Medium (51-250),Silver
+56,Ramirez-Woodward,Tech,Small (1-50),Gold
+57,Moses-Bradford,Finance,Small (1-50),Platinum
+58,"Holmes, Brown and Sanchez",Retail,Large (251-1000),Gold
+59,Williams-Luna,Consulting,Small (1-50),Gold
+60,Anderson-Lee,Finance,Small (1-50),Silver
+61,"Watson, Wright and Spencer",Tech,Medium (51-250),Gold
+62,Cabrera-Roberts,Education,Medium (51-250),Silver
+63,Alexander LLC,Retail,Large (251-1000),Silver
+64,"Cannon, Peterson and Smith",Media,Medium (51-250),Gold
+65,Velasquez-Allen,Tech,Medium (51-250),Gold
+66,"Figueroa, Martin and Vega",Finance,Medium (51-250),Silver
+67,Carroll-Harris,Consulting,Small (1-50),Gold
+68,"Moore, Gilbert and Robles",Tech,Medium (51-250),Silver
+69,"Martinez, Hogan and Garcia",Retail,Medium (51-250),Platinum
+70,"Lopez, Bush and Bautista",Tech,Medium (51-250),Silver
+71,"Thompson, Roberts and Mann",Healthcare,Large (251-1000),Platinum
+72,"Fleming, Burke and Mcknight",Education,Large (251-1000),Platinum
+73,"Smith, Moore and Villarreal",Healthcare,Small (1-50),Gold
+74,"Murphy, Reed and Tate",Education,Small (1-50),New
+75,Warren-Nash,Finance,Medium (51-250),New
+76,Wood-Williams,Consulting,Large (251-1000),Gold
+77,Bell and Sons,Finance,Small (1-50),Platinum
+78,Koch Ltd,Tech,Enterprise (1000+),Gold
+79,Williams-Hernandez,Finance,Medium (51-250),Gold
+80,Dalton Group,Retail,Medium (51-250),Silver
+81,Ruiz-Bryant,Education,Large (251-1000),Gold
+82,Robinson LLC,Healthcare,Small (1-50),Silver
+83,Sullivan Inc,Healthcare,Medium (51-250),Silver
+84,Barker PLC,Education,Medium (51-250),Gold
+85,Mendez-Peters,Education,Small (1-50),Silver
+86,Hill-Little,Retail,Large (251-1000),Platinum
+87,Salazar PLC,Education,Large (251-1000),Platinum
+88,Zhang Inc,Healthcare,Small (1-50),Silver
+89,Nguyen Group,Tech,Medium (51-250),Gold
+90,Maldonado Group,Tech,Small (1-50),Platinum
+91,Porter-Diaz,Consulting,Large (251-1000),New
+92,Taylor Ltd,Tech,Medium (51-250),Silver
+93,Brown-Green,Finance,Medium (51-250),Gold
+94,Mccullough-Peterson,Media,Medium (51-250),Silver
+95,Lucas Inc,Tech,Medium (51-250),Gold
+96,Weaver Group,Education,Large (251-1000),New
+97,"Holden, Wallace and Gardner",Education,Large (251-1000),Platinum
+98,Chandler PLC,Consulting,Medium (51-250),Silver
+99,Anderson-Johnson,Finance,Large (251-1000),Silver
+100,Johnson-Hanson,Finance,Medium (51-250),Gold
