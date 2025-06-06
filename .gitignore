@@ -1,0 +1,32 @@
+# Python
+*.pyc
+*.pyo
+__pycache__/
+
+# Virtual environment
+venv/
+*.env
+
+# dbt
+dbt_modules/
+target/
+manifest.json
+run_results.json
+*.log
+*.bak
+
+# BigQuery configuration files
+*.json
+profiles.yml
+
+# Looker project files
+.looker/
+
+# Misc
+*.DS_Store
+*.idea/
+*.vscode/
+*.swp
+
+# Local config files
+.env
